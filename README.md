@@ -7,5 +7,5 @@ Over the past two years, I studied Topology as my thesis topic. Topology can pro
 One of the biggest benefits of TDA is that it decreases the dimensionality of high dimensional data. In doing so, it allows one to analyze the underlying structures of data. 
 
 ## This repository is divided into three sections. 
-- Notes taken from Practical Time Series Analysis (including textbook problem sets in R & Python)
+- Notes taken from Practical Time Series Analysis (more detailed notes and problem sets can be found in this [repo] (https://github.com/sarahheayoon/Practical-Time-Series-Analysis-Prediction-With-Statistics-And-Machine-Learning-Notes)
 - Applications of Persistence to Time Series Data Analysis in R & Python
