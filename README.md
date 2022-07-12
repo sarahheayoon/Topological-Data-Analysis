@@ -11,3 +11,5 @@ One of the biggest benefits of TDA is that it decreases the dimensionality of hi
 - Notes on Persistence Homology and its applications
 - Notes taken from "Practical Time Series Analysis" (more detailed notes and problem sets can be found in [this repo](https://github.com/sarahheayoon/Practical-Time-Series-Analysis-Prediction-With-Statistics-And-Machine-Learning-Notes)
 
+## Acknowledgement
+I would like to give special thanks to my advisor, Professor. Vin de Silva. I would also like to thank Anna Song and Yueqi for guiding me through the TDA python package 'gudhi' and 'giotto-tda'
