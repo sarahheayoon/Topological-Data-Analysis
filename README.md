@@ -10,5 +10,3 @@ Ken Cooke Summer Research (Pomona College Math Department)
 - Excercises and solutions on Applications of Persistence to Time Series Data Analysis in R & Python 
 
 ## Acknowledgement
-I would like to give special thanks to my advisor, Professor. Vin de Silva and Pomona College Math Department for the fellowship grant. 
-I would also like to thank Anna Song and Yueqi for guiding me through the TDA python package 'gudhi' and 'giotto-tda'
