@@ -6,8 +6,8 @@ Ken Cooke Summer Research (Pomona College Math Department)
 
 ## This repository includes three sections. 
 - Notes on Persistence Homology and its applications (Python codes for TDA modeling)
+- Notes taken from "Practical Time Series Analysis" - more detailed notes and problem sets can be found in [this repo](https://github.com/sarahheayoon/Practical-Time-Series-Analysis-Prediction-With-Statistics-And-Machine-Learning-Notes)
 - Excercises and solutions on Applications of Persistence to Time Series Data Analysis in R & Python 
-- Notes taken from "Practical Time Series Analysis" (more detailed notes and problem sets can be found in [this repo](https://github.com/sarahheayoon/Practical-Time-Series-Analysis-Prediction-With-Statistics-And-Machine-Learning-Notes)
 
 ## Acknowledgement
 I would like to give special thanks to my advisor, Professor. Vin de Silva and Pomona College Math Department for the fellowship grant. 
